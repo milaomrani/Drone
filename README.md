@@ -36,3 +36,6 @@ Make sure to close the application using the "Exit Application" button to safely
 Feel free to customize and enhance the script according to your needs.
 
 Enjoy controlling your Tello drone and experimenting with face detection!
+
+![Alt Text](./ezgif.com-optimize.gif)
+
